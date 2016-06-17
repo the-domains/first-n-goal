@@ -1,0 +1,28 @@
+name: First N Goal
+favicon: null
+layout_spectrum: 0.02957728737965226
+typography_spectrum: 0.4492283051367849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4222015654668212
+  lightness: 0.3072706856764853
+  saturation: 0.1263805478811264
+  rhythmicContrast: 0.5949722449295223
+purpose: []
